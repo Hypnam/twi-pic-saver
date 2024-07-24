@@ -1,6 +1,6 @@
 # TwiPicSaver
 
-タブに開いたTwitterの画像を一択保存するやつ
+タブに開いたTwitterの画像を一択保存するchromeプラグイン
 
 Ctrl+Shift+Sで拡張機能が開くので、そこでSaveボタンを押すとタブで開いているTwitterの画像が一括保存されます
 
